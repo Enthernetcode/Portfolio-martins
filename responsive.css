@@ -277,6 +277,7 @@
   }
   .flat-service .service-box {
     margin-bottom: 30px;
+    background-color: pink;
   }
   .side-bar {
     margin-top: 60px;
@@ -643,6 +644,7 @@
   }
   .flat-development .wrap-development {
     padding: 40px 30px;
+    background-color: pink;
   }
   .flat-skill {
     padding-bottom: 37px;
