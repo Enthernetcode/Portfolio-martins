@@ -645,6 +645,7 @@
   .flat-development .wrap-development {
     padding: 40px 30px;
     background-color: pink;
+    opacity: 60%;
   }
   .flat-skill {
     padding-bottom: 37px;
