@@ -262,8 +262,10 @@
     right: 20px;
 }
 .cool .instag {
-    margin: 4px
-    top: 30px;
+    position: relative; 
+    margin-bottom: 25px;
+    right: 2%;
+/*    top: 30px; */
 }
   .widget-social-footer .wrap-list {
     padding-top: 2px;
