@@ -249,23 +249,11 @@
     text-align: center;
   }
   .cool {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
     margin-bottom: 40px;
-    text-align: center;
-}
-.cool .tel {
-    margin: 4px
-    top: 10px;
-}
-.cool .gmai {
-    margin: 2px
-    top: 2px;
-    right: 20px;
-}
-.cool .instag {
-    position: relative; 
-    margin-bottom: 25px;
-    right: 2%;
-/*    top: 30px; */
+    justify-content: space-around;
 }
   .widget-social-footer .wrap-list {
     padding-top: 2px;
