@@ -255,6 +255,13 @@
     margin-bottom: 40px;
     justify-content: space-around;
 }
+.all{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    color: grey;
+    justify-content: space-aroun
+}
   .widget-social-footer .wrap-list {
     padding-top: 2px;
     text-align: center;
